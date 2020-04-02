@@ -1,0 +1,3 @@
+rootProject.name = 'zombie_shooter_by_m_15340'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

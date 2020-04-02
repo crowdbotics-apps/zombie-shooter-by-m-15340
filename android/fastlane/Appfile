@@ -1,0 +1,2 @@
+json_key_file("") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.zombie_shooter_by_m_15340") # e.g. com.krausefx.app
